@@ -49,6 +49,7 @@ int main(void)
 	SPI_MasterInit();
 	displayInit();
 	fillScreen(0xFFFF);
+
 	
 	while(1)
 	{
