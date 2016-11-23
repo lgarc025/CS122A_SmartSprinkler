@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.o
+Debug/CS122A_SmartSprinkler.hex
+*.map
+Debug/CS122A_SmartSprinkler.eep
+Debug/makedep.mk
+*.d
+Debug/CS122A_SmartSprinkler.lss
+*.elf
+*.cproj
+Debug/Makefile
